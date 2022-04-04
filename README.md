@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> The best of the best, my curated collection of wallpapers I have been collecting for the past 10 years.
+> The best of the best, my curated collection of wallpapers I have been collecting for the past 10 years. I do not have the rights to these images, they are simply a collection for personal use.
 
 ### 🏠 [Homepage](https://github.com/semaj4712/Wallpapers)
 
