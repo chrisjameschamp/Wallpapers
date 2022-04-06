@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38870317/161869898-78525236-cc9a-4490-b949-07f62e711f5c.jpg">
-</div>
 <h2 align="center">Wallpapers</h2>
 <p align="center">The best of the best, my curated collection of wallpapers I have been collecting for the past 10 years. I do not have the rights to these images, they are simply a collection for personal use</p>
 <div align="center">
@@ -10,6 +7,9 @@
   ![GitHub license](https://img.shields.io/badge/license-CC%20BY--ND%204.0-blue?style=flat-square)
   ![GitHub last commit](https://img.shields.io/github/last-commit/chrisjameschamp/Wallpapers?style=flat-square)
 
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/38870317/161869898-78525236-cc9a-4490-b949-07f62e711f5c.jpg">
 </div>
 <h2>Install</h2>
 
